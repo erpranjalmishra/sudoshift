@@ -33,7 +33,7 @@ The River Clean Robot project simulates a river cleaning robot that can move for
 1. Clone the repository:
     ```bash
     git clone https://github.com/erpranjalmishra/sudoshift
-    cd river-clean-robot
+    cd rcrmotions
     ```
 
 2. (Optional) Create and activate a virtual environment:
